@@ -1,5 +1,5 @@
 # my-notes
-I am **Ruba Al-Barizat**, I am 21 years old, I studied software engineering at Al-Hussein Bin Talal University, and as a new graduate, I need to develop my skills and experience, I joined this course at ***ltuc***.
+I am **Ruba Al-Barizat**, I am 21 years old, I studied software engineering at Al-Hussein Bin Talal University, and as a new graduate, I need to develop my skills and experience, I joined this course at *ltuc*.
 
 This article explains the basics of the developer mindset well, which we summarize as follows:
 
@@ -29,7 +29,7 @@ This article explains the basics of the developer mindset well, which we summari
 24. Don't ask questions... ask for help
 
 
-It also deals with giving programmers important tips to develop themselves, making them smart programmers skilled in their work, including:
+It also deals with giving programmers important tips to develop themselves, making them smart programmers skilled in their work, **including**:
 
 Fans should not be listened to, understand the purpose of the program well, your design should be easy for you and useful for others, misunderstanding leads to complexity, which leads to more misunderstanding, a good developer creates things that are easy to understand so that it is really easy to get rid of all the bugs Simplicity is important to create correct code Maintainability is one of the most important things in software development Consistency is a big part of simplicity Prioritizing analysis is important to know the next step Don't strive for perfection Don't anticipate the future No need for unnecessary changes Code quality does not depend On the number of lines written, you shouldn't guess the source of the error and apply the fixes based on your assumption Breaking the big thing down into small things Rewriting the code from scratch is not the solution The real purpose of comments is to explain "why" you did something, not "what" you're doing Code, don't rely too much on outside aid, try new learning methods and different programming languages, and remember not to always be a hero.
 
